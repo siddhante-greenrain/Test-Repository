@@ -73,3 +73,7 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+SourceControl_Test/Binaries/
+SourceControl_Test/DerivedDataCache/
+SourceControl_Test/Intermediate/
+SourceControl_Test/Saved/
